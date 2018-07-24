@@ -1,7 +1,9 @@
 README.md in the repo with your scripts. This repo explains how all of the scripts work and how they are connected.
 
 Below is details of the dataset that was obtained and used for a coursera 'Getting and cleaning data' course
+
 ==================================================================
+
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
@@ -10,6 +12,7 @@ DITEN - Università degli Studi di Genova.
 Via Opera Pia 11A, I-16145, Genoa, Italy.
 activityrecognition@smartlab.ws
 www.smartlab.ws
+
 ==================================================================
 
 Information on the data is as follows:
